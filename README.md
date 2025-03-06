@@ -43,10 +43,10 @@ Collected from **Numbeo**, a global database providing cost of living, housing i
 
 
 ## 📂 Project Structure
-notebooks/ → Jupyter Notebooks with data analysis, visualization, and modeling
-src/ → Python scripts for data processing and modeling
-data/ → (Optional) Datasets used in the project
-images/ → Visualizations (e.g., SHAP plots, boxplots before and after outlier removal)
+- notebooks/ → Jupyter Notebooks with data analysis, visualization, and modeling
+- src/ → Python scripts for data processing and modeling
+- data/ → (Optional) Datasets used in the project
+- images/ → Visualizations (e.g., SHAP plots, boxplots before and after outlier removal)
 
 ## 🔍 Key Insights
 Climate Value and Income-to-Property Ratio are the strongest predictors of quality of life.
